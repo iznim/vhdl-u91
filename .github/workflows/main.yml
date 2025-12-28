@@ -1,4 +1,4 @@
-name: apache 1
+name: kubernetes 1
 
 on:
   push:
