@@ -1,4 +1,4 @@
-name: kubernetes 1
+name: maven 1
 
 on:
   push:
